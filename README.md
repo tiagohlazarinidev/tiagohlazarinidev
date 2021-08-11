@@ -13,8 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 <br />
 
 ### Languages and Tools:
@@ -52,6 +54,5 @@
 
 [website]: https://portfolio-tiagohdev.vercel.app/
 [linkedin]: https://www.linkedin.com/in/tiago-henrique-lazarini-92b8081a3/
-
-
+![Snake animation](https://github.com/tiagohlazarinidev/tiagohlazarinidev/blob/output/github-contribution-grid-snake.svg)
 
