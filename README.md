@@ -9,6 +9,7 @@
 - 🥅 Meta 2021 virar desenvolvedor FullStack
 - ⚡ Fato curioso: amo aprender coisas novas!
 - 📫 How to reach me **tiago_lazarini@hotmail.com**
+![](https://komarev.com/ghpvc/?username=tiagohlazarinidev&label=PROFILE+VIEWS)
 
 ### Connect with me:
 
