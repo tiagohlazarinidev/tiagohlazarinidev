@@ -51,7 +51,10 @@
 
 
 
-
+ <img style="border-radius: 20px;"
+            src="https://cdn.discordapp.com/attachments/782644075555717140/889569453354917908/curto.gif"
+            alt=""
+        />
 [website]: https://portfolio-tiagohdev.vercel.app/
 [linkedin]: https://www.linkedin.com/in/tiago-henrique-lazarini-92b8081a3/
 ![Snake animation](https://github.com/tiagohlazarinidev/tiagohlazarinidev/blob/output/github-contribution-grid-snake.svg)
