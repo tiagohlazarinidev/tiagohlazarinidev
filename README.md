@@ -1,8 +1,8 @@
 
 ### 👨‍💻Olá!  Sou Tiago H. Lazarini 👋
 
+<div align=center>## **FullStack Developer Trainee**</div>
 
-## **FullStack Developer Trainee**
 
 - 🔭 Ciência da Computação (Cursando)
 - 🌱 Atualmente estou aprendendo **Angular, Java, React.js, Spring Boot**
