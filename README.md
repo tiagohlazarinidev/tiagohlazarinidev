@@ -5,7 +5,7 @@
 
 
 - 🔭 Ciência da Computação (Cursando)
-- 🌱 Atualmente estou aprendendo **Angular, Java, React.js, Spring Boot**
+- 🌱 Atualmente estou aprendendo **C#, Java, React.js, Spring Boot**
 - 🥅 Meta 2021 virar desenvolvedor FullStack
 - ⚡ Fato curioso: amo aprender coisas novas!
 - 📫 How to reach me **tiago_lazarini@hotmail.com**
