@@ -4,10 +4,10 @@
 <div align=center><h1>FullStack Developer Trainee</h1></div>
 
 
-- 🔭 Ciência da Computação (Cursando)
-- 🌱 Atualmente estou aprendendo **C#, Java, React.js, Spring Boot**
-- 🥅 Meta 2021 virar desenvolvedor FullStack
-- ⚡ Fato curioso: amo aprender coisas novas!
+- 🔭 Computer Science (Cursing)
+- 🌱 I'm currently learning **C#, Java, React.jsm Ruby**
+- 🥅 Meta 2022 become a FullStack developer
+- ⚡ Fun fact: I love learning new things!
 - 📫 How to reach me **tiago_lazarini@hotmail.com**
 ![](https://komarev.com/ghpvc/?username=tiagohlazarinidev&label=PROFILE+VIEWS)
 
