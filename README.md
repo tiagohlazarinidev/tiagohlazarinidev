@@ -1,5 +1,5 @@
 
-### 👨‍💻Olá!  Sou Tiago H. Lazarini 👋
+### 👨‍💻Hello! I'm Tiago H. Lazarini👋
 
 <div align=center><h1>FullStack Developer Trainee</h1></div>
 
