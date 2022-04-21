@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Lazarini</h1>
-<h3 align="center">FullStack Developer Jr. In search of the world's source code!</h3>
+<h3 align="center">FullStack Developer In search of the world's source code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagohlazarinidev&label=Profile%20views&color=0e75b6&style=flat" alt="tiagohlazarinidev" /> </p>
 
