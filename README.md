@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, Javascript, C#**
 
-- 📫 How to reach me **tiago_lazarini@hotmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **I love learning new things!**
 
